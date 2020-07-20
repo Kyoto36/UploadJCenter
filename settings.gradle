@@ -1,0 +1,2 @@
+include ':app', ':test_lib'
+rootProject.name='UploadJCenter'
